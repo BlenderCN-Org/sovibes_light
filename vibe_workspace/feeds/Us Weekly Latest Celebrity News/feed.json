@@ -1,0 +1,32 @@
+{
+  "coverage": 0.07,
+  "score": 48000.0,
+  "partial": true,
+  "language": "en",
+  "contentType": "article",
+  "coverageScore": 8.55,
+  "twitterScreenName": "UsWeekly",
+  "feedId": "feed/http://www.usmagazine.com/celebrity_news/rss",
+  "facebookUsername": "UsWeekly",
+  "coverColor": "6FC4E9",
+  "description": "Get today's top celebrity news, celebrity photos, style tips, exclusive video, and more on UsMagazine.com, the official website of Us Weekly.",
+  "velocity": 194.8,
+  "title": "Us Weekly Latest Celebrity News",
+  "twitterFollowers": 1878799,
+  "website": "http://www.usmagazine.com",
+  "iconUrl": "http://storage.googleapis.com/site-assets/d45oB61hZjRg9DTlhfgD9C5GM6N3nJNqufe4YPWHu0o_icon-1541563472b",
+  "deliciousTags": [
+    "entertainment",
+    "celebrities",
+    "gossip",
+    "celeb"
+  ],
+  "scheme": "TEXT:BASELINE:ORGANIC_SEARCH",
+  "lastUpdated": 1477535880000,
+  "estimatedEngagement": 1743,
+  "coverUrl": "http://storage.googleapis.com/site-assets/d45oB61hZjRg9DTlhfgD9C5GM6N3nJNqufe4YPWHu0o_cover-1541563472b",
+  "visualUrl": "http://storage.googleapis.com/site-assets/d45oB61hZjRg9DTlhfgD9C5GM6N3nJNqufe4YPWHu0o_visual-1541563472b",
+  "subscribers": 4800,
+  "art": 117.26,
+  "facebookLikes": 3470432
+}

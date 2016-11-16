@@ -1,0 +1,31 @@
+{
+  "twitterScreenName": "wired",
+  "twitterFollowers": 5955707,
+  "partial": true,
+  "deliciousTags": [
+    "tech",
+    "science",
+    "gaming"
+  ],
+  "language": "en",
+  "title": "Wired - Gadget Lab",
+  "amp": "false",
+  "velocity": 0.01,
+  "hint": "Wired - Gadget Lab",
+  "iconUrl": "http://storage.googleapis.com/site-assets/nPuel-63I-t5w9ZRjGCICJ8XeB6EqbkWag2avYmMAr4_icon-154125c5621",
+  "coverColor": "000000",
+  "feedId": "feed/http://www.wired.com/gadgetlab/feed/",
+  "description": "Get in-depth coverage of current and future trends in technology, and how they are shaping business, entertainment, communications, science, politics, and culture at WIRED.",
+  "scheme": "TEXT:BASELINE:CURATED_SEARCH",
+  "lastUpdated": 1425264715646,
+  "facebookUsername": "wired",
+  "visualUrl": "http://storage.googleapis.com/site-assets/nPuel-63I-t5w9ZRjGCICJ8XeB6EqbkWag2avYmMAr4_visual-154125c5621",
+  "contentType": "article",
+  "curated": true,
+  "facebookLikes": 1919033,
+  "coverUrl": "http://storage.googleapis.com/site-assets/nPuel-63I-t5w9ZRjGCICJ8XeB6EqbkWag2avYmMAr4_cover-1543add6bb5",
+  "subscribers": 28981,
+  "website": "http://www.wired.com",
+  "score": 28.98,
+  "fullContent": "false"
+}

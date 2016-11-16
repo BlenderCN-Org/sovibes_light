@@ -1,0 +1,27 @@
+{
+  "twitterScreenName": "YahooNews",
+  "twitterFollowers": 965377,
+  "deliciousTags": [
+    "news"
+  ],
+  "art": 63.27,
+  "language": "en",
+  "title": "Yahoo News - Top Stories",
+  "coverage": 0.02,
+  "coverageScore": 1.47,
+  "velocity": 1986.8,
+  "iconUrl": "http://storage.googleapis.com/site-assets/U43yQtocz9j0g8DqctN2n1T_HphZ9Wi6hciGimQiEZw_icon-15415e2cc27",
+  "coverColor": "131516",
+  "feedId": "feed/http://rss.news.yahoo.com/rss/topstories",
+  "description": "Sorry, the RSS you have subscribed was temporary error. Please try assessing your subscribed RSS again in a few minutes.",
+  "estimatedEngagement": 76,
+  "scheme": "TEXT:BASELINE:ORGANIC_SEARCH",
+  "lastUpdated": 1474516800000,
+  "visualUrl": "http://storage.googleapis.com/site-assets/U43yQtocz9j0g8DqctN2n1T_HphZ9Wi6hciGimQiEZw_visual-15415e2cc27",
+  "amp": "true",
+  "coverUrl": "http://storage.googleapis.com/site-assets/U43yQtocz9j0g8DqctN2n1T_HphZ9Wi6hciGimQiEZw_cover-15415e2cc27",
+  "subscribers": 85884,
+  "website": "http://news.yahoo.com/topstories/",
+  "score": 858630.0,
+  "fullContent": "false"
+}

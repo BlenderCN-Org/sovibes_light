@@ -1,0 +1,32 @@
+{
+  "twitterScreenName": "guardian",
+  "twitterFollowers": 5487067,
+  "partial": true,
+  "deliciousTags": [
+    "news",
+    "world"
+  ],
+  "art": 80.55,
+  "language": "en",
+  "title": "US news | The Guardian",
+  "coverage": 0.05,
+  "coverageScore": 4.07,
+  "velocity": 339.5,
+  "iconUrl": "http://storage.googleapis.com/site-assets/90e4KmOTThFk07stLlf8yoiayCmDG3KGOCdHskFTQG4_icon-15414cd94f7",
+  "coverColor": "FFFFFF",
+  "feedId": "feed/http://www.guardian.co.uk/world/usa/rss",
+  "description": "Latest US news, breaking news and current affairs coverage from theguardian.com",
+  "estimatedEngagement": 1772,
+  "scheme": "URL:BASELINE:ORGANIC_SEARCH",
+  "contentType": "article",
+  "facebookUsername": "GuardianUs",
+  "visualUrl": "http://storage.googleapis.com/site-assets/90e4KmOTThFk07stLlf8yoiayCmDG3KGOCdHskFTQG4_visual-15414cd94f7",
+  "lastUpdated": 1474515720000,
+  "amp": "false",
+  "facebookLikes": 562104,
+  "coverUrl": "http://storage.googleapis.com/site-assets/90e4KmOTThFk07stLlf8yoiayCmDG3KGOCdHskFTQG4_cover-15414cd94f7",
+  "subscribers": 87703,
+  "website": "https://www.theguardian.com/us-news",
+  "score": 876890.0,
+  "fullContent": "false"
+}

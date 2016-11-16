@@ -1,0 +1,30 @@
+{
+  "twitterScreenName": "gizmodo",
+  "twitterFollowers": 1823594,
+  "partial": false,
+  "deliciousTags": [
+    "tech",
+    "gadgets"
+  ],
+  "art": 156.61,
+  "language": "en",
+  "title": "Gizmodo",
+  "coverage": 0.08,
+  "coverageScore": 12.51,
+  "velocity": 316.2,
+  "iconUrl": "http://storage.googleapis.com/site-assets/YgTD2rF1XSAfR77lKtxrTwuR-azzbzQhUxfiRyg1u0w_icon-154124e974f",
+  "coverColor": "EDF6F8",
+  "feedId": "feed/http://feeds.gawker.com/gizmodo/full",
+  "description": "We come from the future.",
+  "estimatedEngagement": 1034,
+  "scheme": "URL:BASELINE:ORGANIC_SEARCH",
+  "contentType": "article",
+  "visualUrl": "http://storage.googleapis.com/site-assets/YgTD2rF1XSAfR77lKtxrTwuR-azzbzQhUxfiRyg1u0w_visual-154124e974f",
+  "lastUpdated": 1474516620000,
+  "amp": "true",
+  "coverUrl": "http://storage.googleapis.com/site-assets/YgTD2rF1XSAfR77lKtxrTwuR-azzbzQhUxfiRyg1u0w_cover-154124e974f",
+  "subscribers": 633179,
+  "website": "http://gizmodo.com",
+  "score": 6330560.0,
+  "fullContent": "true"
+}

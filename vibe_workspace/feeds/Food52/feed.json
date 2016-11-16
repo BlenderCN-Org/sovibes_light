@@ -1,0 +1,33 @@
+{
+  "coverageScore": 9.08,
+  "description": "Eat thoughtfully, live joyfully.",
+  "facebookUsername": "food52",
+  "website": "https://food52.com",
+  "coverUrl": "http://storage.googleapis.com/site-assets/QAim1bx4FGP9hqa3r6EBzSn_yMpcU1jMi3hbvRV_JZ8_cover-15415477f1d",
+  "iconUrl": "http://storage.googleapis.com/test-site-assets/QAim1bx4FGP9hqa3r6EBzSn_yMpcU1jMi3hbvRV_JZ8_oicon-14a53820067",
+  "score": 872640.0,
+  "feedId": "feed/http://feeds.feedburner.com/food52-TheAandMBlog",
+  "amp": "true",
+  "twitterScreenName": "Food52",
+  "deliciousTags": [
+    "food",
+    "cooking",
+    "recipes"
+  ],
+  "visualUrl": "http://storage.googleapis.com/test-site-assets/QAim1bx4FGP9hqa3r6EBzSn_yMpcU1jMi3hbvRV_JZ8_ovisual-14a53820067",
+  "coverColor": "404041",
+  "subscribers": 87276,
+  "art": 69.55,
+  "velocity": 68.8,
+  "lastUpdated": 1474499280000,
+  "contentType": "article",
+  "language": "en",
+  "estimatedEngagement": 160,
+  "coverage": 0.13,
+  "twitterFollowers": 381482,
+  "fullContent": "true",
+  "partial": false,
+  "title": "Food52",
+  "facebookLikes": 735965,
+  "scheme": "URL:BASELINE:ORGANIC_SEARCH"
+}

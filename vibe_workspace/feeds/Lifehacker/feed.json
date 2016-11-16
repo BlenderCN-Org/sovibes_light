@@ -1,0 +1,33 @@
+{
+  "twitterScreenName": "lifehacker",
+  "twitterFollowers": 3082963,
+  "partial": false,
+  "deliciousTags": [
+    "tech",
+    "productivity",
+    "geeky",
+    "life"
+  ],
+  "art": 94.86,
+  "language": "en",
+  "title": "Lifehacker",
+  "coverage": 0.1,
+  "coverageScore": 9.47,
+  "logo": "http://storage.googleapis.com/test-site-assets/6ytp7dDQylcqn9Rm8dj3stV2YoJ6Fxwe2AzgxzVkXlc_ologo-14f043902a0",
+  "velocity": 200.7,
+  "iconUrl": "http://storage.googleapis.com/site-assets/6ytp7dDQylcqn9Rm8dj3stV2YoJ6Fxwe2AzgxzVkXlc_icon-154124efe17",
+  "coverColor": "F8FAF0",
+  "feedId": "feed/http://feeds.gawker.com/lifehacker/vip",
+  "description": "Don't live to geek; geek to live.",
+  "estimatedEngagement": 265,
+  "scheme": "TEXT:BASELINE:ORGANIC_SEARCH",
+  "contentType": "article",
+  "visualUrl": "http://storage.googleapis.com/site-assets/6ytp7dDQylcqn9Rm8dj3stV2YoJ6Fxwe2AzgxzVkXlc_visual-154124efe17",
+  "lastUpdated": 1474503660000,
+  "amp": "true",
+  "coverUrl": "http://storage.googleapis.com/site-assets/6ytp7dDQylcqn9Rm8dj3stV2YoJ6Fxwe2AzgxzVkXlc_cover-154124efe17",
+  "subscribers": 1110292,
+  "website": "http://lifehacker.com",
+  "score": 11100600.0,
+  "fullContent": "true"
+}

@@ -1,0 +1,32 @@
+{
+  "twitterScreenName": "kotaku",
+  "twitterFollowers": 873922,
+  "partial": false,
+  "deliciousTags": [
+    "gaming",
+    "games",
+    "tech",
+    "video games"
+  ],
+  "art": 145.49,
+  "language": "en",
+  "title": "Kotaku",
+  "coverage": 0.08,
+  "coverageScore": 11.45,
+  "velocity": 229.8,
+  "iconUrl": "http://storage.googleapis.com/site-assets/1iFkmAfSI_02w17CiU4A7y9Dt9scZdZNh32xpy9B54s_icon-154124f0fa8",
+  "coverColor": "FFFFF9",
+  "feedId": "feed/http://feeds.gawker.com/kotaku/vip",
+  "description": "The Gamer's Guide",
+  "estimatedEngagement": 887,
+  "scheme": "URL:BASELINE:ORGANIC_SEARCH",
+  "contentType": "article",
+  "visualUrl": "http://storage.googleapis.com/site-assets/1iFkmAfSI_02w17CiU4A7y9Dt9scZdZNh32xpy9B54s_visual-154124f0fa8",
+  "lastUpdated": 1474943880000,
+  "amp": "true",
+  "coverUrl": "http://storage.googleapis.com/site-assets/1iFkmAfSI_02w17CiU4A7y9Dt9scZdZNh32xpy9B54s_cover-154124f0fa8",
+  "subscribers": 221218,
+  "website": "http://kotaku.com",
+  "score": 27648.63,
+  "fullContent": "true"
+}

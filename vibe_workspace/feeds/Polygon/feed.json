@@ -1,0 +1,31 @@
+{
+  "amp": "true",
+  "score": 1148.0,
+  "website": "http://www.polygon.com/",
+  "iconUrl": "http://storage.googleapis.com/site-assets/rpKhwLTdHF3UZYPz4djy4LY4nDsUT9jPsWudKAEX2B0_sicon-1541393bfb2",
+  "language": "en",
+  "visualUrl": "http://storage.googleapis.com/site-assets/rpKhwLTdHF3UZYPz4djy4LY4nDsUT9jPsWudKAEX2B0_svisual-1541393bfb2",
+  "art": 88.01,
+  "deliciousTags": [
+    "gaming",
+    "games",
+    "tech",
+    "video games"
+  ],
+  "coverage": 0.09,
+  "fullContent": "true",
+  "subscribers": 146513,
+  "velocity": 182.0,
+  "feedId": "feed/http://www.polygon.com/rss/index.xml",
+  "hint": "gaming",
+  "lastUpdated": 1477534440000,
+  "scheme": "TEXT:BASELINE:CURATED_SEARCH",
+  "featured": true,
+  "curated": true,
+  "contentType": "article",
+  "estimatedEngagement": 976,
+  "description": "Polygon is a gaming website in partnership with Vox Media. Our culture focused site covers games, their creators, the fans, trending stories and entertainment news.",
+  "coverageScore": 8.12,
+  "title": "Polygon",
+  "partial": true
+}

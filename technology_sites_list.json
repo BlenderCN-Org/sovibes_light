@@ -1,0 +1,364 @@
+[
+
+  {
+    "accentColor": "fa4b2a",
+    "art": 116.19,
+    "contentType": "article",
+    "coverUrl": "http://storage.googleapis.com/site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_fcover-1541628ca5f",
+    "coverage": 0.08,
+    "coverageScore": 8.82,
+    "deliciousTags": [
+      "tech"
+    ],
+    "description": "Covering the intersection of technology, science, art, and culture.",
+    "estimatedEngagement": 1480,
+    "facebookLikes": 2015999,
+    "facebookUsername": "verge",
+    "feedId": "feed/http://www.theverge.com/rss/full.xml",
+    "iconUrl": "http://storage.googleapis.com/site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_ficon-1541628ca5f",
+    "language": "en",
+    "lastUpdated": 1474515060000,
+    "logo": "http://storage.googleapis.com/test-site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_ologo-14be62cd987",
+    "partial": false,
+    "relatedLayout": "card",
+    "relatedTarget": "browser",
+    "scheme": "URL:BASELINE:ORGANIC_SEARCH",
+    "score": 7961310.0,
+    "subscribers": 796400,
+    "title": "The Verge",
+    "velocity": 324.3,
+    "visualUrl": "http://storage.googleapis.com/site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_fvisual-1541628ca5f",
+    "website": "http://www.theverge.com/",
+    "wordmark": "http://storage.googleapis.com/test-site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_owordmark-1503a52ff7f",
+
+    "amp": "true",
+    "fullContent": "true"
+  },
+
+
+  {
+    "art": 94.86,
+    "contentType": "article",
+    "coverColor": "F8FAF0",
+    "coverUrl": "http://storage.googleapis.com/site-assets/6ytp7dDQylcqn9Rm8dj3stV2YoJ6Fxwe2AzgxzVkXlc_cover-154124efe17",
+    "coverage": 0.1,
+    "coverageScore": 9.47,
+    "deliciousTags": [
+      "tech",
+      "productivity",
+      "geeky",
+      "life"
+    ],
+    "description": "Don't live to geek; geek to live.",
+    "estimatedEngagement": 265,
+    "feedId": "feed/http://feeds.gawker.com/lifehacker/vip",
+    "iconUrl": "http://storage.googleapis.com/site-assets/6ytp7dDQylcqn9Rm8dj3stV2YoJ6Fxwe2AzgxzVkXlc_icon-154124efe17",
+    "language": "en",
+    "lastUpdated": 1474503660000,
+    "logo": "http://storage.googleapis.com/test-site-assets/6ytp7dDQylcqn9Rm8dj3stV2YoJ6Fxwe2AzgxzVkXlc_ologo-14f043902a0",
+    "partial": false,
+    "scheme": "TEXT:BASELINE:ORGANIC_SEARCH",
+    "score": 11100600.0,
+    "subscribers": 1110292,
+    "title": "Lifehacker",
+    "twitterFollowers": 3082963,
+    "twitterScreenName": "lifehacker",
+    "velocity": 200.7,
+    "visualUrl": "http://storage.googleapis.com/site-assets/6ytp7dDQylcqn9Rm8dj3stV2YoJ6Fxwe2AzgxzVkXlc_visual-154124efe17",
+    "website": "http://lifehacker.com",
+
+    "amp": "true",
+    "fullContent": "true"
+  },
+
+
+
+  {
+    "art": 156.61,
+    "contentType": "article",
+    "coverColor": "EDF6F8",
+    "coverUrl": "http://storage.googleapis.com/site-assets/YgTD2rF1XSAfR77lKtxrTwuR-azzbzQhUxfiRyg1u0w_cover-154124e974f",
+    "coverage": 0.08,
+    "coverageScore": 12.51,
+    "deliciousTags": [
+      "tech",
+      "gadgets"
+    ],
+    "description": "We come from the future.",
+    "estimatedEngagement": 1034,
+    "feedId": "feed/http://feeds.gawker.com/gizmodo/full",
+    "iconUrl": "http://storage.googleapis.com/site-assets/YgTD2rF1XSAfR77lKtxrTwuR-azzbzQhUxfiRyg1u0w_icon-154124e974f",
+    "language": "en",
+    "lastUpdated": 1474516620000,
+    "partial": false,
+    "scheme": "URL:BASELINE:ORGANIC_SEARCH",
+    "score": 6330560.0,
+    "subscribers": 633179,
+    "title": "Gizmodo",
+    "twitterFollowers": 1823594,
+    "twitterScreenName": "gizmodo",
+    "velocity": 316.2,
+    "visualUrl": "http://storage.googleapis.com/site-assets/YgTD2rF1XSAfR77lKtxrTwuR-azzbzQhUxfiRyg1u0w_visual-154124e974f",
+    "website": "http://gizmodo.com",
+
+    "amp": "true",
+    "fullContent": "true"
+  },
+
+
+  {
+    "analyticsEngine": "GoogleAnalytics",
+    "analyticsId": "UA-64498257-1",
+    "art": 15.09,
+    "coverColor": "C0DEED",
+    "coverUrl": "http://storage.googleapis.com/site-assets/kW-foSWH_f9y10DxS6GkHdFLabTsWzGzup8iPEgotak_cover-15415d05009",
+    "coverage": 0.17,
+    "coverageScore": 2.6,
+    "curated": true,
+    "deliciousTags": [
+      "tech"
+    ],
+    "description": "Web Apps, Web Technology Trends, Social Networking and Social Media - ReadWrite",
+    "estimatedEngagement": 33,
+    "facebookLikes": 117192,
+    "facebookUsername": "readwrite",
+    "feedId": "feed/http://www.readwriteweb.com/rss.xml",
+    "hint": "ReadWrite",
+    "iconUrl": "http://storage.googleapis.com/site-assets/kW-foSWH_f9y10DxS6GkHdFLabTsWzGzup8iPEgotak_icon-15415d05009",
+    "language": "en",
+    "lastUpdated": 1474490760000,
+    "logo": "http://storage.googleapis.com/test-site-assets/YwTjCnEeIqxj44sdnT7JFQW42L9DNW4VSirj5QJk0qw_ologo-14f043fdf1c",
+    "partial": false,
+    "relatedLayout": "card",
+    "relatedTarget": "browser",
+    "scheme": "TEXT:BASELINE:CURATED_SEARCH",
+    "score": 1050.0,
+    "subscribers": 219496,
+    "title": "ReadWrite",
+    "twitterFollowers": 1654156,
+    "twitterScreenName": "rww",
+    "velocity": 23.3,
+    "visualUrl": "http://storage.googleapis.com/site-assets/kW-foSWH_f9y10DxS6GkHdFLabTsWzGzup8iPEgotak_visual-15415d05009",
+    "website": "http://readwrite.com",
+
+    "amp": "false",
+    "fullContent": "true"
+  },
+
+
+  {
+    "art": 92.19,
+    "contentType": "article",
+    "coverColor": "000000",
+    "coverUrl": "http://storage.googleapis.com/site-assets/4i-1vhCwmRRLfmB7ypTnMh-ZKSvsz6Rgf0lfR0WWb0w_cover-1541543fe44",
+    "coverage": 0.09,
+    "coverageScore": 7.93,
+    "curated": true,
+    "deliciousTags": [
+      "tech",
+      "apple",
+      "gadgets"
+    ],
+    "description": "Engadget is a web magazine with obsessive daily coverage of everything new in gadgets and consumer electronics",
+    "estimatedEngagement": 608,
+    "facebookLikes": 1273039,
+    "facebookUsername": "engadget",
+    "feedId": "feed/http://www.engadget.com/rss-full.xml",
+    "hint": "Engadget",
+    "iconUrl": "http://storage.googleapis.com/site-assets/4i-1vhCwmRRLfmB7ypTnMh-ZKSvsz6Rgf0lfR0WWb0w_icon-1541543fe44",
+    "language": "en",
+    "lastUpdated": 1474516800000,
+    "logo": "http://storage.googleapis.com/test-site-assets/4i-1vhCwmRRLfmB7ypTnMh-ZKSvsz6Rgf0lfR0WWb0w_ologo-14f041f5bd8",
+    "partial": false,
+    "relatedLayout": "card",
+    "relatedTarget": "browser",
+    "scheme": "TEXT:BASELINE:CURATED_SEARCH",
+    "score": 1050.0,
+    "subscribers": 1032280,
+    "title": "Engadget",
+    "twitterFollowers": 1706990,
+    "twitterScreenName": "engadget",
+    "velocity": 320.8,
+    "visualUrl": "http://storage.googleapis.com/site-assets/4i-1vhCwmRRLfmB7ypTnMh-ZKSvsz6Rgf0lfR0WWb0w_visual-1541543fe44",
+    "website": "http://www.engadget.com",
+
+    "amp": "false",
+    "fullContent": "true"
+  },
+
+
+  {
+    "art": 50.93,
+    "contentType": "article",
+    "coverColor": "FF3C1F",
+    "coverUrl": "http://storage.googleapis.com/site-assets/0VTnUfX894TcY5TA_oMFDbEY1bDrlajzsn67Jr80r8M_cover-154139868e0",
+    "coverage": 0.09,
+    "coverageScore": 4.52,
+    "deliciousTags": [
+      "tech"
+    ],
+    "description": "The Next Web is one of the world\u2019s largest online publications that delivers an international perspective on the latest news about Internet technology, business and culture.",
+    "estimatedEngagement": 164,
+    "facebookLikes": 801399,
+    "facebookUsername": "thenextweb",
+    "feedId": "feed/http://feeds2.feedburner.com/thenextweb",
+    "iconUrl": "http://storage.googleapis.com/site-assets/0VTnUfX894TcY5TA_oMFDbEY1bDrlajzsn67Jr80r8M_icon-154139868e0",
+    "language": "en",
+    "lastUpdated": 1474498920000,
+    "partial": true,
+    "scheme": "URL:BASELINE:ORGANIC_SEARCH",
+    "score": 1991400.0,
+    "subscribers": 199206,
+    "title": "The Next Web",
+    "twitterFollowers": 1654696,
+    "twitterScreenName": "TheNextWeb",
+    "velocity": 201.8,
+    "visualUrl": "http://storage.googleapis.com/site-assets/0VTnUfX894TcY5TA_oMFDbEY1bDrlajzsn67Jr80r8M_visual-154139868e0",
+    "website": "http://thenextweb.com",
+
+    "amp": "true",
+    "fullContent": "false"
+  },
+
+
+  {
+    "analyticsEngine": "GoogleAnalytics",
+    "analyticsId": "UA-64690007-1",
+    "art": 125.29,
+    "contentType": "article",
+    "coverColor": "00AEEF",
+    "coverUrl": "http://storage.googleapis.com/site-assets/MMCA_259PVQgzewWTRJNcvw_8XXvgI6S68GWeJF7z_0_cover-154155af883",
+    "coverage": 0.05,
+    "coverageScore": 5.84,
+    "curated": true,
+    "deliciousTags": [
+      "tech",
+      "marketing",
+      "social media"
+    ],
+    "description": "Leading source for news, information & resources for the Connected Generation. ",
+    "estimatedEngagement": 1431,
+    "facebookLikes": 3456096,
+    "facebookUsername": "mashable",
+    "feedId": "feed/http://feeds.mashable.com/Mashable",
+    "hint": "Mashable",
+    "iconUrl": "http://storage.googleapis.com/site-assets/MMCA_259PVQgzewWTRJNcvw_8XXvgI6S68GWeJF7z_0_icon-154155af883",
+    "language": "en",
+    "lastUpdated": 1474516740000,
+    "logo": "http://storage.googleapis.com/test-site-assets/MMCA_259PVQgzewWTRJNcvw_8XXvgI6S68GWeJF7z_0_ologo-14fe2e5a1bc",
+    "partial": true,
+    "scheme": "TEXT:BASELINE:CURATED_SEARCH",
+    "score": 1050.0,
+    "subscribers": 576065,
+    "title": "Mashable",
+    "twitterFollowers": 6979028,
+    "twitterScreenName": "mashable",
+    "velocity": 802.7,
+    "visualUrl": "http://storage.googleapis.com/site-assets/MMCA_259PVQgzewWTRJNcvw_8XXvgI6S68GWeJF7z_0_visual-154155af883",
+    "website": "http://mashable.com/stories/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&utm_cid=Mash-Prod-RSS-Feedburner-All-Partial",
+
+    "amp": "true",
+    "fullContent": "false"
+  },
+
+  {
+    "contentType": "article",
+    "coverColor": "000000",
+    "coverUrl": "http://storage.googleapis.com/site-assets/nPuel-63I-t5w9ZRjGCICJ8XeB6EqbkWag2avYmMAr4_cover-1543add6bb5",
+    "curated": true,
+    "deliciousTags": [
+      "tech",
+      "science",
+      "gaming"
+    ],
+    "description": "Get in-depth coverage of current and future trends in technology, and how they are shaping business, entertainment, communications, science, politics, and culture at WIRED.",
+    "facebookLikes": 1919033,
+    "facebookUsername": "wired",
+    "feedId": "feed/http://www.wired.com/gadgetlab/feed/",
+    "hint": "Wired - Gadget Lab",
+    "iconUrl": "http://storage.googleapis.com/site-assets/nPuel-63I-t5w9ZRjGCICJ8XeB6EqbkWag2avYmMAr4_icon-154125c5621",
+    "language": "en",
+    "lastUpdated": 1425264715646,
+    "partial": true,
+    "scheme": "TEXT:BASELINE:CURATED_SEARCH",
+    "score": 28.98,
+    "subscribers": 28981,
+    "title": "Wired - Gadget Lab",
+    "twitterFollowers": 5955707,
+    "twitterScreenName": "wired",
+    "velocity": 0.01,
+    "visualUrl": "http://storage.googleapis.com/site-assets/nPuel-63I-t5w9ZRjGCICJ8XeB6EqbkWag2avYmMAr4_visual-154125c5621",
+    "website": "http://www.wired.com",
+
+    "amp": "false",
+    "fullContent": "false"
+  },
+
+
+  {
+    "art": 62.5,
+    "contentType": "article",
+    "coverColor": "149500",
+    "coverUrl": "http://storage.googleapis.com/site-assets/Xne8uW_IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ-Yk0rJ8_cover-154124f9d06",
+    "coverage": 0.08,
+    "coverageScore": 4.89,
+    "deliciousTags": [
+      "tech"
+    ],
+    "description": "TechCrunch is a group-edited blog that profiles the companies, products and events defining and transforming the new web.",
+    "estimatedEngagement": 364,
+    "facebookLikes": 2085622,
+    "facebookUsername": "techcrunch",
+    "feedId": "feed/http://feeds.feedburner.com/Techcrunch",
+    "iconUrl": "http://storage.googleapis.com/site-assets/Xne8uW_IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ-Yk0rJ8_icon-154124f9d06",
+    "language": "en",
+    "lastUpdated": 1474513260000,
+    "partial": true,
+    "scheme": "TEXT:BASELINE:ORGANIC_SEARCH",
+    "score": 8083160.0,
+    "subscribers": 808512,
+    "title": "TechCrunch",
+    "twitterFollowers": 6647340,
+    "twitterScreenName": "techcrunch",
+    "velocity": 376.8,
+    "visualUrl": "http://storage.googleapis.com/site-assets/Xne8uW_IUiZhV1EuO2ZMzIrc2Ak6NlhGjboZ-Yk0rJ8_visual-154124f9d06",
+    "website": "https://techcrunch.com",
+
+    "amp": "true",
+    "fullContent": "false"
+  },
+
+
+  {
+    "art": 59.15,
+    "contentType": "article",
+    "coverUrl": "http://storage.googleapis.com/site-assets/BPDxg-QeeesMcMy9ViMsAlh8TojpI5RvaH37C7V0UDE_fcover-15416292f9f",
+    "coverage": 0.07,
+    "coverageScore": 3.86,
+    "deliciousTags": [
+      "tech"
+    ],
+    "description": "CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of tech issues and events.",
+    "estimatedEngagement": 334,
+    "facebookLikes": 2179556,
+    "facebookUsername": "cnet",
+    "feedId": "feed/http://news.com.com/2547-1_3-0-5.xml",
+    "iconUrl": "http://storage.googleapis.com/site-assets/BPDxg-QeeesMcMy9ViMsAlh8TojpI5RvaH37C7V0UDE_ficon-15416292f9f",
+    "language": "en",
+    "lastUpdated": 1474516380000,
+    "logo": "http://storage.googleapis.com/test-site-assets/BPDxg-QeeesMcMy9ViMsAlh8TojpI5RvaH37C7V0UDE_ologo-14f04195800",
+    "partial": true,
+    "relatedLayout": "card",
+    "relatedTarget": "browser",
+    "scheme": "URL:BASELINE:ORGANIC_SEARCH",
+    "score": 280556.0,
+    "subscribers": 280646,
+    "title": "CNET News",
+    "velocity": 318.5,
+    "visualUrl": "http://storage.googleapis.com/site-assets/BPDxg-QeeesMcMy9ViMsAlh8TojpI5RvaH37C7V0UDE_fvisual-15416292f9f",
+    "website": "http://www.cnet.com/#ftag=CAD590a51e",
+
+    "amp": "false",
+    "fullContent": "false"
+  }
+]

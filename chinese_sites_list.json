@@ -1,0 +1,26 @@
+[{
+      "deliciousTags": [
+        "新闻",
+        "新华网",
+        "时事新闻",
+        "china"
+      ],
+      "feedId": "feed/http://www.xinhuanet.com/politics/news_politics.xml",
+      "language": "zh",
+      "subscribers": 592,
+      "lastUpdated": 1478403240000,
+      "title": "时政频道_新华网",
+      "velocity": 2074.3,
+      "website": "http://www.xinhuanet.com/politics/xw.htm",
+      "score": 6989.44,
+      "coverage": 0.0,
+      "coverageScore": 0.0,
+      "scheme": "URL:BASELINE:ORGANIC_SEARCH",
+      "contentType": "article",
+      "description": "新华网时政频道致力于以全天24小时持续运转方式向全球提供及时、准确、全面、专业的国内外时政新闻信息，准确及时的报道中国，传播世界。",
+      "iconUrl": "http://storage.googleapis.com/site-assets/u94fqs6WTAchAWgYEV-VoDK04pka5Y_Hv4TEDRHLlkY_sicon-15426eaf4ef",
+      "partial": true,
+      "visualUrl": "http://storage.googleapis.com/site-assets/u94fqs6WTAchAWgYEV-VoDK04pka5Y_Hv4TEDRHLlkY_svisual-15426eaf4ef",
+      "art": 0.0
+    }
+]

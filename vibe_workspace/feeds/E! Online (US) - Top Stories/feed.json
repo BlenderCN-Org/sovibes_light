@@ -1,0 +1,29 @@
+{
+  "coverage": 0.05,
+  "score": 145730.0,
+  "partial": true,
+  "language": "en",
+  "contentType": "article",
+  "art": 86.98,
+  "coverageScore": 4.77,
+  "estimatedEngagement": 2314,
+  "facebookUsername": "eonline",
+  "description": "News from across the show-biz spectrum-TV, movies, music and celebrities",
+  "velocity": 396.7,
+  "title": "E! Online (US) - Top Stories",
+  "website": "http://www.eonline.com/",
+  "iconUrl": "http://storage.googleapis.com/site-assets/JAq2RTR8d5G4zfiEwiEdiZA6PN7VsMa93irFlc3UuTo_ficon-1541633eb23",
+  "deliciousTags": [
+    "entertainment",
+    "celebrities",
+    "gossip",
+    "cinema"
+  ],
+  "scheme": "TEXT:BASELINE:ORGANIC_SEARCH",
+  "lastUpdated": 1477538940000,
+  "feedId": "feed/http://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml",
+  "coverUrl": "http://storage.googleapis.com/site-assets/JAq2RTR8d5G4zfiEwiEdiZA6PN7VsMa93irFlc3UuTo_fcover-1541633eb23",
+  "subscribers": 14573,
+  "visualUrl": "http://storage.googleapis.com/site-assets/JAq2RTR8d5G4zfiEwiEdiZA6PN7VsMa93irFlc3UuTo_fvisual-1541633eb23",
+  "facebookLikes": 9049626
+}

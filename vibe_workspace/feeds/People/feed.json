@@ -1,0 +1,28 @@
+{
+  "curated": true,
+  "website": "http://people.com",
+  "scheme": "TEXT:BASELINE:CURATED_SEARCH",
+  "partial": true,
+  "subscribers": 22530,
+  "iconUrl": "http://storage.googleapis.com/site-assets/0Axc2tG9dngWdPAsvKu7mMl8D0OEk0ITnekbjzCbq1g_icon-15412525d11",
+  "deliciousTags": [
+    "entertainment",
+    "celebrities",
+    "gossip",
+    "people"
+  ],
+  "language": "en",
+  "lastUpdated": 1477602094141,
+  "feedId": "feed/http://rss.people.com/web/people/rss/topheadlines/index.xml",
+  "twitterScreenName": "People",
+  "title": "People",
+  "hint": "People",
+  "contentType": "article",
+  "coverUrl": "http://storage.googleapis.com/site-assets/0Axc2tG9dngWdPAsvKu7mMl8D0OEk0ITnekbjzCbq1g_cover-15412525d11",
+  "coverColor": "08A8E7",
+  "visualUrl": "http://storage.googleapis.com/site-assets/0Axc2tG9dngWdPAsvKu7mMl8D0OEk0ITnekbjzCbq1g_visual-15412525d11",
+  "description": "https://t.co/4HzJYZeppu is the No. 1 site for celebrity news! For more updates, check us out on Snapchat Discover.",
+  "twitterFollowers": 7203235,
+  "velocity": 738.5,
+  "score": 1022.53
+}

@@ -1,0 +1,171 @@
+[
+
+  {
+    "art": 97.02,
+    "contentType": "article",
+    "coverColor": "323232",
+    "coverUrl": "http://storage.googleapis.com/test-site-assets/rCJg7pKVnNYe-cGb-lsdnTD6zmt4MNGy627zsl0vNH4_ocover-14ebc520a9d",
+    "coverage": 0.05,
+    "coverageScore": 5.03,
+    "curated": true,
+    "deliciousTags": [
+      "news",
+      "world"
+    ],
+    "description": "Delivering up-to-the-minute news and information on the latest top stories, weather, entertainment, politics.",
+    "estimatedEngagement": 4787,
+    "facebookLikes": 21228719,
+    "facebookUsername": "cnn",
+    "feedId": "feed/http://rss.cnn.com/rss/cnn_topstories.rss",
+    "hint": "CNN",
+    "iconUrl": "http://storage.googleapis.com/test-site-assets/rCJg7pKVnNYe-cGb-lsdnTD6zmt4MNGy627zsl0vNH4_oicon-14ebc5230d6",
+    "language": "en",
+    "lastUpdated": 1474514100000,
+    "logo": "http://storage.googleapis.com/test-site-assets/rCJg7pKVnNYe-cGb-lsdnTD6zmt4MNGy627zsl0vNH4_ologo-14ff72d3ab0",
+    "partial": true,
+    "relatedLayout": "card",
+    "relatedTarget": "browser",
+    "scheme": "TEXT:BASELINE:CURATED_SEARCH",
+    "score": 1050.0,
+    "subscribers": 537783,
+    "title": "CNN.com - RSS Channel - Mobile App Manual",
+    "twitterFollowers": 24680934,
+    "twitterScreenName": "CNN",
+    "velocity": 389.7,
+    "visualUrl": "http://storage.googleapis.com/test-site-assets/rCJg7pKVnNYe-cGb-lsdnTD6zmt4MNGy627zsl0vNH4_ovisual-14ebc5230d6",
+    "website": "http://edition.cnn.com/",
+
+    "amp": "true",
+    "fullContent": "false"
+  },
+
+
+  {
+    "art": 84.19,
+    "contentType": "article",
+    "coverUrl": "http://storage.googleapis.com/site-assets/2IAKmisI-skG5eJD6FDanzV4JS35tHTM1ILbuVimBro_fcover-1543c23a464",
+    "coverage": 0.06,
+    "coverageScore": 4.79,
+    "deliciousTags": [
+      "news",
+      "world"
+    ],
+    "description": "Find breaking news, multimedia, reviews & opinion on Washington, business, sports, movies & more.",
+    "estimatedEngagement": 4055,
+    "facebookLikes": 387016,
+    "facebookUsername": "nytopinion",
+    "feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+    "iconUrl": "http://storage.googleapis.com/site-assets/2IAKmisI-skG5eJD6FDanzV4JS35tHTM1ILbuVimBro_ficon-1543c23a464",
+    "language": "en",
+    "lastUpdated": 1474513560000,
+    "logo": "http://storage.googleapis.com/test-site-assets/2IAKmisI-skG5eJD6FDanzV4JS35tHTM1ILbuVimBro_ologo-14f043d04fc",
+    "partial": true,
+    "scheme": "URL:BASELINE:ORGANIC_SEARCH",
+    "score": 5569390.0,
+    "subscribers": 557098,
+    "title": "NYT > Home Page",
+    "velocity": 409.5,
+    "visualUrl": "http://storage.googleapis.com/site-assets/2IAKmisI-skG5eJD6FDanzV4JS35tHTM1ILbuVimBro_fvisual-1543c23a464",
+    "website": "http://www.nytimes.com/pages/index.html?partner=rss&emc=rss",
+
+    "amp": "true",
+    "fullContent": "false"
+  },
+
+
+  {
+    "coverColor": "2E7060",
+    "coverUrl": "https://pbs.twimg.com/profile_banners/14511951/1393823682/ipad_retina",
+    "curated": true,
+    "deliciousTags": [
+      "news",
+      "politics"
+    ],
+    "description": "The latest news from the Huffington Post",
+    "facebookLikes": 2171776,
+    "facebookUsername": "HuffingtonPost",
+    "feedId": "feed/http://feeds.huffingtonpost.com/huffingtonpost/LatestNews",
+    "hint": "Huffington Post",
+    "language": "en",
+    "lastUpdated": 1402037945871,
+    "partial": true,
+    "scheme": "TEXT:BASELINE:CURATED_SEARCH",
+    "score": 1050.0,
+    "subscribers": 152664,
+    "title": "The Huffington Post",
+    "twitterFollowers": 4105677,
+    "twitterScreenName": "HuffingtonPost",
+    "velocity": 138.1,
+    "visualUrl": "http://pbs.twimg.com/profile_images/456395600636829697/7gQUqiUI_bigger.jpeg",
+    "website": "http://www.huffingtonpost.com",
+
+    "amp": "false",
+    "fullContent": "false"
+  },
+
+
+  {
+    "art": 63.27,
+    "coverColor": "131516",
+    "coverUrl": "http://storage.googleapis.com/site-assets/U43yQtocz9j0g8DqctN2n1T_HphZ9Wi6hciGimQiEZw_cover-15415e2cc27",
+    "coverage": 0.02,
+    "coverageScore": 1.47,
+    "deliciousTags": [
+      "news"
+    ],
+    "description": "Sorry, the RSS you have subscribed was temporary error. Please try assessing your subscribed RSS again in a few minutes.",
+    "estimatedEngagement": 76,
+    "feedId": "feed/http://rss.news.yahoo.com/rss/topstories",
+    "iconUrl": "http://storage.googleapis.com/site-assets/U43yQtocz9j0g8DqctN2n1T_HphZ9Wi6hciGimQiEZw_icon-15415e2cc27",
+    "language": "en",
+    "lastUpdated": 1474516800000,
+    "scheme": "TEXT:BASELINE:ORGANIC_SEARCH",
+    "score": 858630.0,
+    "subscribers": 85884,
+    "title": "Yahoo News - Top Stories",
+    "twitterFollowers": 965377,
+    "twitterScreenName": "YahooNews",
+    "velocity": 1986.8,
+    "visualUrl": "http://storage.googleapis.com/site-assets/U43yQtocz9j0g8DqctN2n1T_HphZ9Wi6hciGimQiEZw_visual-15415e2cc27",
+    "website": "http://news.yahoo.com/topstories/",
+
+    "amp": "true",
+    "fullContent": "false"
+  },
+
+
+  {
+    "art": 80.55,
+    "contentType": "article",
+    "coverColor": "FFFFFF",
+    "coverUrl": "http://storage.googleapis.com/site-assets/90e4KmOTThFk07stLlf8yoiayCmDG3KGOCdHskFTQG4_cover-15414cd94f7",
+    "coverage": 0.05,
+    "coverageScore": 4.07,
+    "deliciousTags": [
+      "news",
+      "world"
+    ],
+    "description": "Latest US news, breaking news and current affairs coverage from theguardian.com",
+    "estimatedEngagement": 1772,
+    "facebookLikes": 562104,
+    "facebookUsername": "GuardianUs",
+    "feedId": "feed/http://www.guardian.co.uk/world/usa/rss",
+    "iconUrl": "http://storage.googleapis.com/site-assets/90e4KmOTThFk07stLlf8yoiayCmDG3KGOCdHskFTQG4_icon-15414cd94f7",
+    "language": "en",
+    "lastUpdated": 1474515720000,
+    "partial": true,
+    "scheme": "URL:BASELINE:ORGANIC_SEARCH",
+    "score": 876890.0,
+    "subscribers": 87703,
+    "title": "US news | The Guardian",
+    "twitterFollowers": 5487067,
+    "twitterScreenName": "guardian",
+    "velocity": 339.5,
+    "visualUrl": "http://storage.googleapis.com/site-assets/90e4KmOTThFk07stLlf8yoiayCmDG3KGOCdHskFTQG4_visual-15414cd94f7",
+    "website": "https://www.theguardian.com/us-news",
+
+    "amp": "false",
+    "fullContent": "false"
+  }
+
+]

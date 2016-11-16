@@ -1,0 +1,31 @@
+{
+  "partial": true,
+  "deliciousTags": [
+    "tech"
+  ],
+  "art": 59.15,
+  "language": "en",
+  "title": "CNET News",
+  "coverage": 0.07,
+  "coverageScore": 3.86,
+  "logo": "http://storage.googleapis.com/test-site-assets/BPDxg-QeeesMcMy9ViMsAlh8TojpI5RvaH37C7V0UDE_ologo-14f04195800",
+  "velocity": 318.5,
+  "iconUrl": "http://storage.googleapis.com/site-assets/BPDxg-QeeesMcMy9ViMsAlh8TojpI5RvaH37C7V0UDE_ficon-15416292f9f",
+  "feedId": "feed/http://news.com.com/2547-1_3-0-5.xml",
+  "description": "CNET news editors and reporters provide top technology news, with investigative reporting and in-depth coverage of tech issues and events.",
+  "estimatedEngagement": 334,
+  "relatedTarget": "browser",
+  "scheme": "URL:BASELINE:ORGANIC_SEARCH",
+  "contentType": "article",
+  "facebookUsername": "cnet",
+  "visualUrl": "http://storage.googleapis.com/site-assets/BPDxg-QeeesMcMy9ViMsAlh8TojpI5RvaH37C7V0UDE_fvisual-15416292f9f",
+  "lastUpdated": 1474516380000,
+  "amp": "false",
+  "facebookLikes": 2179556,
+  "coverUrl": "http://storage.googleapis.com/site-assets/BPDxg-QeeesMcMy9ViMsAlh8TojpI5RvaH37C7V0UDE_fcover-15416292f9f",
+  "relatedLayout": "card",
+  "website": "http://www.cnet.com/#ftag=CAD590a51e",
+  "score": 280556.0,
+  "subscribers": 280646,
+  "fullContent": "false"
+}

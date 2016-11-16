@@ -1,0 +1,28 @@
+{
+  "twitterScreenName": "HuffingtonPost",
+  "twitterFollowers": 4105677,
+  "partial": true,
+  "deliciousTags": [
+    "news",
+    "politics"
+  ],
+  "language": "en",
+  "title": "The Huffington Post",
+  "amp": "false",
+  "velocity": 138.1,
+  "coverColor": "2E7060",
+  "feedId": "feed/http://feeds.huffingtonpost.com/huffingtonpost/LatestNews",
+  "description": "The latest news from the Huffington Post",
+  "scheme": "TEXT:BASELINE:CURATED_SEARCH",
+  "hint": "Huffington Post",
+  "facebookUsername": "HuffingtonPost",
+  "visualUrl": "http://pbs.twimg.com/profile_images/456395600636829697/7gQUqiUI_bigger.jpeg",
+  "lastUpdated": 1402037945871,
+  "curated": true,
+  "facebookLikes": 2171776,
+  "coverUrl": "https://pbs.twimg.com/profile_banners/14511951/1393823682/ipad_retina",
+  "subscribers": 152664,
+  "website": "http://www.huffingtonpost.com",
+  "score": 1050.0,
+  "fullContent": "false"
+}

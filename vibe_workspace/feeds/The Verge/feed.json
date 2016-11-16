@@ -1,0 +1,33 @@
+{
+  "partial": false,
+  "deliciousTags": [
+    "tech"
+  ],
+  "wordmark": "http://storage.googleapis.com/test-site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_owordmark-1503a52ff7f",
+  "art": 116.19,
+  "language": "en",
+  "title": "The Verge",
+  "coverage": 0.08,
+  "coverageScore": 8.82,
+  "logo": "http://storage.googleapis.com/test-site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_ologo-14be62cd987",
+  "velocity": 324.3,
+  "iconUrl": "http://storage.googleapis.com/site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_ficon-1541628ca5f",
+  "feedId": "feed/http://www.theverge.com/rss/full.xml",
+  "description": "Covering the intersection of technology, science, art, and culture.",
+  "estimatedEngagement": 1480,
+  "relatedTarget": "browser",
+  "scheme": "URL:BASELINE:ORGANIC_SEARCH",
+  "contentType": "article",
+  "facebookUsername": "verge",
+  "visualUrl": "http://storage.googleapis.com/site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_fvisual-1541628ca5f",
+  "accentColor": "fa4b2a",
+  "lastUpdated": 1474515060000,
+  "amp": "true",
+  "facebookLikes": 2015999,
+  "coverUrl": "http://storage.googleapis.com/site-assets/PSNTZO8gXFUe-cpCZyApw0vEKWPT4b14D6teBEocIAE_fcover-1541628ca5f",
+  "relatedLayout": "card",
+  "website": "http://www.theverge.com/",
+  "score": 7961310.0,
+  "subscribers": 796400,
+  "fullContent": "true"
+}

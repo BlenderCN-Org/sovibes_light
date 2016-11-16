@@ -1,0 +1,31 @@
+{
+  "coverage": 0.0,
+  "score": 238.0,
+  "partial": true,
+  "language": "en",
+  "coverageScore": 0.0,
+  "twitterScreenName": "YahooCelebrity",
+  "feedId": "feed/http://rss.news.yahoo.com/rss/celebrity",
+  "facebookUsername": "YahooCelebrity",
+  "coverColor": "400090",
+  "description": "Get the latest Celebrity news headlines from Yahoo! News. Find breaking Celebrity news, including analysis and opinion on top Celebrity stories, photos and more.",
+  "velocity": 0.01,
+  "title": "Celebrity News Headlines - Yahoo! News",
+  "twitterFollowers": 127699,
+  "website": "http://news.yahoo.com/celebrity/",
+  "iconUrl": "http://storage.googleapis.com/site-assets/LwfqbDwiTtD4KphukaxWjPUGfCL-JQfzWzlfbkakSGU_icon-14a83e26815",
+  "deliciousTags": [
+    "celebrity",
+    "entertainment",
+    "gossip",
+    "celeb"
+  ],
+  "scheme": "TEXT:BASELINE:ORGANIC_SEARCH",
+  "lastUpdated": 1381332540000,
+  "contentType": "article",
+  "coverUrl": "http://storage.googleapis.com/site-assets/LwfqbDwiTtD4KphukaxWjPUGfCL-JQfzWzlfbkakSGU_cover",
+  "visualUrl": "http://storage.googleapis.com/site-assets/LwfqbDwiTtD4KphukaxWjPUGfCL-JQfzWzlfbkakSGU_visual-14a83e26815",
+  "subscribers": 238,
+  "art": 0.0,
+  "facebookLikes": 1440125
+}

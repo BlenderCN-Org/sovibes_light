@@ -1,0 +1,30 @@
+{
+  "partial": true,
+  "deliciousTags": [
+    "news",
+    "world"
+  ],
+  "art": 84.19,
+  "language": "en",
+  "title": "NYT > Home Page",
+  "coverage": 0.06,
+  "coverageScore": 4.79,
+  "logo": "http://storage.googleapis.com/test-site-assets/2IAKmisI-skG5eJD6FDanzV4JS35tHTM1ILbuVimBro_ologo-14f043d04fc",
+  "velocity": 409.5,
+  "iconUrl": "http://storage.googleapis.com/site-assets/2IAKmisI-skG5eJD6FDanzV4JS35tHTM1ILbuVimBro_ficon-1543c23a464",
+  "feedId": "feed/http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+  "description": "Find breaking news, multimedia, reviews & opinion on Washington, business, sports, movies & more.",
+  "estimatedEngagement": 4055,
+  "scheme": "URL:BASELINE:ORGANIC_SEARCH",
+  "contentType": "article",
+  "facebookUsername": "nytopinion",
+  "visualUrl": "http://storage.googleapis.com/site-assets/2IAKmisI-skG5eJD6FDanzV4JS35tHTM1ILbuVimBro_fvisual-1543c23a464",
+  "lastUpdated": 1474513560000,
+  "amp": "true",
+  "facebookLikes": 387016,
+  "coverUrl": "http://storage.googleapis.com/site-assets/2IAKmisI-skG5eJD6FDanzV4JS35tHTM1ILbuVimBro_fcover-1543c23a464",
+  "subscribers": 557098,
+  "website": "http://www.nytimes.com/pages/index.html?partner=rss&emc=rss",
+  "score": 5569390.0,
+  "fullContent": "false"
+}
